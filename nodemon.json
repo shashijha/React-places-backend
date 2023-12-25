@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "Shashi",
+    "DM_PASSWORD": "######",
+    "DB_NAME": "test",
+    "JWT_KEY": "supersecret_dont_share",
+    "GOOGLE_API_KEY": "..."
+  }
+}
